@@ -22,3 +22,22 @@ For this project, I was required to choose either the Google Merchandise Store o
   * Analyze information and generate suggestions to improve the business in direct response to data.
 
 __What I Learned:__ I learned how important KPIs are for tracking progress and keeping our marketing efforts aligned with our goals. I also saw the value of A/B testing in helping us understand customer preferences and run more successful campaigns. Most importantly, I realized that taking a data-driven approach in marketing allows us to optimize our strategies and make smarter, more effective decisions
+
+## Project 3: Marketing Your Content
+In this project, I created a social media marketing strategy for the fictitious skincare brand PYUR to promote its new 3-step skincare solution across six major U.S. cities. The plan included both organic and paid campaigns, with a focus on Facebook, and additional platforms selected based on audience alignment.
+Key tasks included:
+ * Designing a 3-month organic campaign with a giveaway contest and influencer collaboration.
+ * Creating a paid media plan for Facebook within an $8,000 budget.
+ * Planning an influencer strategy within a $2,000 budget.
+ * Developing A/B test ad mockups for different gender audiences.
+ * Analyzing past campaign data and writing 3 insights with recommendations.
+ * Building a content calendar with 12 unique posts across platforms.
+ * Defining audience personas and outlining a growth strategy.
+
+__What I Learned:__ In this project, I learned how to create a well-balanced marketing strategy by combining both organic and paid social media efforts. I saw the importance of tailoring content to specific platforms and audiences while staying true to the brand’s voice to build trust and consistency. Choosing the right creative ads plays a major role in boosting audience engagement and overall campaign performance. I also discovered how valuable performance data and past campaign insights are in guiding smarter decisions—especially when planning A/B tests and influencer collaborations. This project emphasized that platform selection should be based on audience behavior and campaign goals, not guesswork. Finally, I realized that consistent posting is key to increasing brand visibility and sustaining engagement over time.
+
+
+
+
+
+
